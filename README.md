@@ -10,3 +10,10 @@ Selenium cho phép lập trình viên và kiểm thử viên (QA/Tester) viết 
 | 3 | **TC03** | Thêm vào giỏ hàng | Click nút "Add to cart" sản phẩm Sauce Labs Backpack | Badge biểu tượng giỏ hàng cập nhật số lượng là **1** |
 | 4 | **TC04** | Kiểm tra giỏ hàng | Click biểu tượng giỏ hàng trên Header | Chuyển tới `cart.html`, hiển thị đúng sản phẩm đã chọn |
 | 5 | **TC05** | Đăng xuất hệ thống | Mở Sidebar Menu và nhấn chọn "Logout" | Đăng xuất thành công, quay về màn hình Login |
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d32d8c5-f286-44f3-b8b6-9ecf96899d81" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11110278-1513-4951-b43f-41fa9a0df828" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7883dda-c8c7-482d-9cc2-5cdc91e5a082" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34f70ca1-c2d9-47ef-a2c2-1fe89ab08afc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef929a91-68b9-47fb-be0c-a8d06ff480ac" />
+<img width="542" height="257" alt="image" src="https://github.com/user-attachments/assets/47a80bf8-260d-4856-85de-08f5f40a80e6" />
